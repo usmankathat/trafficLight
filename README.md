@@ -1,6 +1,4 @@
-# trafficLight
+# trafficLight light system using C++ and Graphics library.
 
-
-
-https://user-images.githubusercontent.com/56186130/191456792-48a96409-0acb-40f3-ab69-11d4ee66f9cf.mp4
+https://user-images.githubusercontent.com/56186130/191457328-25d82f8a-2a79-4813-ac74-258de9b7929b.mp4
 
